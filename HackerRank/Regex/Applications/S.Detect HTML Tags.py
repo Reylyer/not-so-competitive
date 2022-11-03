@@ -1,6 +1,5 @@
 import re
 
-
 htmlstr = ""
 res = []
 regex = r"((?<=\<)(?:\s*)\/?(\w+)(?:.*?)(?=\>))"
